@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Lesson 3-2</title>
     <style>
-      .form {
+      #form {
         width: 20%;
         margin-top: 10%;
         margin-left: 40%;
@@ -14,34 +14,34 @@
   </head>
 
   <body>
-  <fieldset class="form">
-    <legend>Форма регистрации</legend>
-    
+  <fieldset id="form">
+    <legend>Registration form</legend>
+
     <label>
-      Ф.И.О.:
+      Name:
       <input id="name" type="text">
     </label> <br />
 
     <label>
-      Логин:
+      Login:
       <input id="login" type="text">
     </label> <br />
 
     <label>
-      Пароль:
+      Password:
       <input id="password" type="password">
     </label> <br />
 
     <label>
-      Повторите пароль:
+      Repeat password:
       <input id="repeat-pass" type="password">
     </label> <br />
 
-      Пол:
-      <input type="radio" name="gender" value="man" checked="checked"> М
-      <input type="radio" name="gender" value="woman"> Ж <br />
+      Gender:
+      <input id="male" type="radio" name="gender" value="man" checked="checked"> М
+      <input id="female" type="radio" name="gender" value="woman"> Ж <br />
 
-    <button type="submit">Регистрация</button>
+    <button id="btn" type="submit">Registration</button>
   </fieldset>
 
   </body>
