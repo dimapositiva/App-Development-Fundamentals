@@ -1,0 +1,16 @@
+div {
+  color: blue;
+}
+
+p:first-child {
+  color: red;
+}
+
+p:last-child {
+  color: blue;
+}
+
+p:only-child {
+  background-color: blue;
+  color: white;
+}
