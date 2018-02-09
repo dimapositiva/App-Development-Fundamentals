@@ -1,0 +1,47 @@
+ul {
+  background-color: black;
+  color: white;
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+.red {
+  width: 90%;
+  background-color: #F00;
+}
+
+.yellow {
+  width: 75%;
+  color: red;
+  background-color: #FF0;
+}
+
+.green {
+  width: 60%;
+  background-color: #0F0;
+}
+
+.aqua {
+  width: 45%;
+  background-color: #0FF;
+  }
+
+.blue {
+  width: 30%;
+  background-color: #00F;
+  display: block;
+  margin-left: 35%;
+}
+
+.fuchsia {
+  width: 15%;
+  background-color: #F0F;
+  display: block;
+  margin-left: 42.5%;
+}
