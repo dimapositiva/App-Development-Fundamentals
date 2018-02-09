@@ -1,0 +1,10 @@
+div {
+  width: 300px;
+  background-color: black;
+}
+
+p {
+  width: 60%;
+  height: 50px;
+  background-color: green;
+}
