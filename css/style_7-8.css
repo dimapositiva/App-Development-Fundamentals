@@ -1,0 +1,40 @@
+body {
+  width: 500px;
+}
+
+div {
+  display: inline-block;
+  margin: -2px;
+}
+
+.top-left {
+  width: 250px;
+  height: 250px;
+  background-image: repeating-radial-gradient(circle at 250px 250px, black, white 50px);
+  outline: dotted 10px red;
+  outline-offset: -15px;
+}
+
+.top-right {
+  width: 250px;
+  height: 250px;
+  background-image: repeating-radial-gradient(circle at 0 250px, white, black 50px);
+  outline: dashed 10px blue;
+  outline-offset: -15px;
+}
+
+.bottom-right {
+  width: 250px;
+  height: 250px;
+  background-image: repeating-radial-gradient(circle at 250px 0, white, black 50px);
+  outline: dotted 10px red;
+  outline-offset: -15px;
+}
+
+.bottom-left {
+  width: 250px;
+  height: 250px;
+  background-image: repeating-radial-gradient(circle at 0 0, black, white 50px);
+  outline: dashed 10px blue;
+  outline-offset: -15px;
+}
