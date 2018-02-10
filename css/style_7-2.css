@@ -1,0 +1,9 @@
+div {
+  width: 300px;
+  height: 200px;
+  background-color: black;
+  background-image: url(../img/w3c.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 25%;
+}

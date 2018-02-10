@@ -1,0 +1,12 @@
+div {
+  width: 500px;
+  height: 300px;
+  margin-left: 35%;
+  margin-top: 10%;
+  background-image: url(../img/w3c.jpg);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: -70px -70px 50px red, 70px 70px 50px blue,
+  60px -60px 40px green inset, -60px 60px 40px inset;
+}
