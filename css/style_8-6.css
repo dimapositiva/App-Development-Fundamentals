@@ -1,0 +1,36 @@
+li {
+    text-align: center;
+    padding-top: 10px;
+    list-style-type: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.level-one {
+  display: inline-block;
+  background-color: red;
+  float: left;
+  margin-left: 100px;
+}
+
+.level-two {
+  background-color: #00ff00;
+}
+
+.level-three {
+  background-color: blue;
+  margin-top: 13px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border: solid 1px black;
+}
+
+.two-level-button {
+  margin-top: 13px;
+}

@@ -1,0 +1,34 @@
+div.list {
+  display: list-item;
+  list-style-type: upper-alpha;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.first-element-a .third-element-a {
+  display: inline;
+  float: left;
+}
+
+.second-element-a {
+  display: block;
+}
+
+.first-element-b .third-element-b {
+  display: block;
+  float: left;
+}
+
+.second-element-b {
+  display: inline;
+}
+
+.first-element-c .third-element-c {
+  display: inline;
+  float: left;
+}
+
+.second-element-c {
+  width: auto;
+  display: inline-block;
+}

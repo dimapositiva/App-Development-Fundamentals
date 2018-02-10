@@ -1,0 +1,41 @@
+body {
+  color: white;
+}
+
+.first-element {
+  width: 25%;
+  display: inline-block;
+  float: left;
+}
+
+.main-element {
+  width: 75%;
+  display: inline-block;
+}
+
+.blue-element {
+  width: 30%;
+  display: inline-block;
+  float: right;
+}
+
+.pink-element {
+  width: 30%;
+  display: inline-block;
+  float: right;
+}
+
+.cyan-element {
+  width: 30%;
+  display:inline-block;
+  float: left;
+}
+
+.yellow-element {
+  width: 40%;
+  display: inline-block;
+}
+
+.centr-element {
+  width: 70%;
+}
