@@ -1,0 +1,53 @@
+div {
+  display: inline;
+  border: dotted 2px;
+  text-align: center;
+}
+
+.first {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  padding-top: 25px;
+  float: right;
+  margin-right: 3px;
+}
+
+.second {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  padding-top: 25px;
+}
+
+.third {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  padding-top: 25px;
+  float: right;
+  margin-right: 3px;
+}
+
+.fourth {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  padding-top: 25px;
+}
+
+.fifth {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  padding-top: 25px;
+  float: right;
+  margin-right: 3px;
+}
+
+.sixth {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  padding-top: 25px;
+}

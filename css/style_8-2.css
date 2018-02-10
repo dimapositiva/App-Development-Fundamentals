@@ -1,0 +1,25 @@
+.green-right-top {
+  width: 20%;
+  background-color: green;
+  display: inline-block;
+  float: right;
+}
+
+.red-left-top {
+  width: 80%;
+  background-color: red;
+  display: inline-block;
+}
+
+.green-left-bottom {
+  width: 20%;
+  background-color: green;
+  display: inline-block;
+  float: left;
+}
+
+.red-right-bottom {
+  width: 80%;
+  background-color: red;
+  display: inline-block;
+}

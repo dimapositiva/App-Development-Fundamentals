@@ -1,0 +1,20 @@
+.first-element {
+  width: 33%;
+  height: 60px;
+  background-color: red;
+  display: inline-block;
+  float: left;
+}
+.second-element {
+  width: 33%;
+  height: 60px;
+  background-color: red;
+  display: inline-block;
+  float: right;
+}
+.third-element {
+  width: 34%;
+  height: 60px;
+  background-color: grey;
+  display: inline-block;
+}
