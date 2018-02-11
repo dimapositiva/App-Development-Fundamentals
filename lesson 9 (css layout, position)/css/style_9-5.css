@@ -1,0 +1,17 @@
+div {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  border: solid 2px black;
+  margin-top: 10%;
+  margin-left: 40%;
+}
+
+p {
+  width: 250px;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
