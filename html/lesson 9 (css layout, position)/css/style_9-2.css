@@ -1,0 +1,27 @@
+.first-navbar {
+   width: 25%;
+   height: 50px;
+   background-color: grey;
+   border: dotted 1px black;
+   text-align: center;
+   display: inline-block;
+   padding-top: 25px;
+   margin-left: -5px
+}
+
+.wrapper {
+  width: 40%;
+  margin-left: 30%;
+}
+
+.second-navbar {
+  width: 25%;
+  height: 50px;
+  background-color: #e0e0d1;
+  border: dotted 1px black;
+  text-align: center;
+  display: inline-block;
+  padding-top: 25px;
+  margin-top: 50px;
+  margin-left: -5px
+}

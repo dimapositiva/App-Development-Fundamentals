@@ -1,0 +1,36 @@
+div {
+  width: 200px;
+  height: 180px;
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.first-element {
+  background-color: red;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 400px;
+}
+
+.second-element {
+  background-color: green;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+.third-element {
+  background-color: blue;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 400px;
+}
+
+.fourth-element {
+background-color: black;
+position: absolute;
+margin-top: 250px;
+margin-left: 200px;
+}
