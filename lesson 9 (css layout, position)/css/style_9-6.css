@@ -1,0 +1,29 @@
+.outer {
+   width: 150px;
+   background-color: red;
+   position: relative;
+   margin-left: 45%;
+   margin-top: 10%;
+}
+
+.column {
+   width: 50px;
+   height: 150px;
+   background-color: blue;
+}
+
+.column:hover {
+   width: 50px;
+   height: 200px;
+   background-color: green;
+}
+
+.center {
+   width: 50px;
+   height: 50px;
+   background-color: black;
+   position: absolute;
+   top: 50%;
+   margin-top: -25px;
+   margin-left: 50px;
+  }
