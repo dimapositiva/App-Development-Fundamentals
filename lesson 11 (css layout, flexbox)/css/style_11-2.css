@@ -1,0 +1,39 @@
+div {
+  padding: 5px;
+  border: solid 2px black;
+  margin-top: 40px;
+}
+
+.flex-container {
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.item-one {
+  width: 15%;
+  align-self: flex-start;
+}
+
+.item-two {
+  width: 15%;
+  align-self: center;
+
+}
+
+.item-three {
+  width: 99%;
+  align-self: flex-start;
+}
+
+.item-four {
+  width: 15%;
+  align-self: center;
+}
+
+.item-five {
+  width: 15%;
+  align-self: flex-end;
+}

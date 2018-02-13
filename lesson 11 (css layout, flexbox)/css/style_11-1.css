@@ -13,7 +13,6 @@ div {
 }
 
 .item-one {
-  align-self: center;
   order: 3;
 }
 
@@ -22,7 +21,6 @@ div {
 }
 
 .item-three {
-  align-self: bottom;
   order: 1;
 }
 
