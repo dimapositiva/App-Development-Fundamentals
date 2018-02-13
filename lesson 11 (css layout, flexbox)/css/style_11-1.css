@@ -1,0 +1,35 @@
+div {
+  width: 45%;
+  padding: 5px;
+  border: solid 2px black;
+  margin: 5px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  width: 95%;
+  height: 130px;
+}
+
+.item-one {
+  align-self: center;
+  order: 3;
+}
+
+.item-two {
+  order: 2;
+}
+
+.item-three {
+  align-self: bottom;
+  order: 1;
+}
+
+.item-four {
+  order: 4
+}
+
+.item-five {
+  order: 5;
+}
