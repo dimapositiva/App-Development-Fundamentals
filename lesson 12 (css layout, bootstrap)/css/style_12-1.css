@@ -1,0 +1,9 @@
+.container {
+  margin-top: 50px;
+}
+
+[class*="col-"] {
+  border: 1px black solid;
+  background-color: grey;
+  color: white;
+}
