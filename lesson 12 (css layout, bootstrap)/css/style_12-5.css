@@ -1,0 +1,27 @@
+div.container {
+  margin-top: 50px;
+  border: solid 1px #b3b3b3;
+  color: gray;
+  font-size: 20px;
+}
+
+div.col-1 {
+  border-right: solid 1px #b3b3b3;
+}
+
+div#bottom-block {
+  border-top: solid 1px #b3b3b3;
+}
+
+p.col-2 {
+  font-weight: bold;
+}
+
+p#bottom-element {
+  margin-bottom: 50px;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
