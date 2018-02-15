@@ -1,0 +1,10 @@
+div.container {
+  width: 250px;
+  margin-top: 50px;
+  border: dotted 1px gray;
+  font-weight: bold;
+}
+
+form {
+  padding: 10px;
+}
