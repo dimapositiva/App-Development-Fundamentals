@@ -1,0 +1,20 @@
+div {
+  margin-top: 50px;
+  font-size: 25px;
+}
+
+em.bg-warning {
+  background-color: #ffb3b3 !important;
+}
+
+span.bg-info {
+  background-color: #b3d9ff !important;
+}
+
+span.bg-warning {
+  color: #666666;
+  background-color: #fff0b3 !important;
+}
+.text-white {
+  color: white;
+}
