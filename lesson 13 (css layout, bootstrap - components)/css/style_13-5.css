@@ -1,0 +1,12 @@
+div.container {
+  margin-top: 50px;
+}
+
+p {
+  text-align: justify;
+  font-size: 20px;
+}
+
+abbr {
+  color: #25cef4;
+}
