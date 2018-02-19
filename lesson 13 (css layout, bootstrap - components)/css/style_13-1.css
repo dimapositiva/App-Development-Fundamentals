@@ -1,0 +1,44 @@
+div {
+  color: white;
+}
+
+.container {
+  margin-top: 50px;
+  border: dashed 1px gray;
+  padding: 10px;
+}
+
+.btn {
+  font-size: 1,5vw;
+  overflow: hidden;
+  min-width: 70px;
+}
+
+#wrapper {
+  margin-top: 5px;
+  background-color: #e6e6e6;
+  border-radius: 2px;
+}
+
+@media (min-width: 320px)  {
+  #wrapper {
+    width: 85%;
+  }
+}
+
+@media (min-width: 400px)  {
+  #wrapper {
+    width: 75%;
+  }
+}
+@media (min-width: 450px)  {
+  #wrapper {
+    width: 60%;
+  }
+}
+
+@media (min-width: 572px)  {
+  #wrapper {
+    width: 50%;
+  }
+}
