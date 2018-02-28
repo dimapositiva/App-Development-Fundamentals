@@ -1,5 +1,3 @@
-'use strict'
-
 const createArrayIterator = (array) => {
   let i = -1;
   return () => {

@@ -1,5 +1,3 @@
-'use strict'
-
 const abcChecker = (a, b, c) => {
   if (a < b && b < c) {
     console.log('It\'s true!');

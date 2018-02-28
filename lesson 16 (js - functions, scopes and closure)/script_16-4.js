@@ -1,5 +1,3 @@
-'use strict'
-
 let res = 0;
 
 const digitSum = k => {
@@ -7,5 +5,5 @@ const digitSum = k => {
   if (k > 1) {
     return digitSum(parseInt(k / 10));
   }
-  return res
+  return res;
 }

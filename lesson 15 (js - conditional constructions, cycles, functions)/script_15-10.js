@@ -1,5 +1,3 @@
-'use strict'
-
 const showNumbers = (a, b) => {
   if (a < b) {
     for (let i = a; i <= b; i++) {
@@ -8,6 +6,6 @@ const showNumbers = (a, b) => {
       }
     }
   } else {
-    console.log('Error! Second argument must be bigger than first argument.')
+    console.log('Error! Second argument must be bigger than first argument.');
   }
 }

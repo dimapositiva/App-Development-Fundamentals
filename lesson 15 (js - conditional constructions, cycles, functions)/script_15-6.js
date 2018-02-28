@@ -1,5 +1,3 @@
-'use strict'
-
 const getSingleDigit = n => {
   if (n > 0) {
     while (n > 1) {

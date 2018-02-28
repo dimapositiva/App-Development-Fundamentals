@@ -1,5 +1,3 @@
-'use strict'
-
 const calc = (a, b) => {
   if (!isNaN(a) && !isNaN(b) && a !== '' && b !== '' && a !== null && b !== null) {
     let args = [];

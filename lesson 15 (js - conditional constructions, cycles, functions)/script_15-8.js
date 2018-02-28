@@ -1,5 +1,3 @@
-'use strict'
-
 const oneToNMultiplier = n => {
   if (n > 0 ) {
     let sum = 1;
@@ -8,6 +6,6 @@ const oneToNMultiplier = n => {
     }
     console.log(sum);
   } else {
-    console.log('Error! Argument must be a positive number.')
+    console.log('Error! Argument must be a positive number.');
   }
 }

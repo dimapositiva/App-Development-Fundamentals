@@ -1,5 +1,3 @@
-'use strict'
-
 const differentNumberChecker = (a, b, c, d) => {
   if (a !== b && a !== c && a !== d) {
     console.log('Index of different number is #1.');
@@ -10,6 +8,6 @@ const differentNumberChecker = (a, b, c, d) => {
   } else if (d !== a && d !== b && d !== c) {
       console.log('Index of different number is #4.');
     } else {
-    console.log('Something wrong. Maybe all number equel.')
+    console.log('Something wrong. Maybe all number equel.');
   }
 }

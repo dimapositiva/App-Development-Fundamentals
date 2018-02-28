@@ -1,5 +1,3 @@
-'use strict'
-
 const singleNumberViwer = (x) => {
     if (x > 0 && x < 100) {
     let decim, single;
