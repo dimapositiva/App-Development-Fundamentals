@@ -1,5 +1,3 @@
-'use strict'
-
 const getSummNumberInterval = (a, b) => {
   if (a < b) {
     let sum = 0;
@@ -8,6 +6,6 @@ const getSummNumberInterval = (a, b) => {
     }
     console.log(sum);
   } else {
-    console.log('Error! Second argument must be bigger then first.')
+    console.log('Error! Second argument must be bigger then first.');
   }
 }

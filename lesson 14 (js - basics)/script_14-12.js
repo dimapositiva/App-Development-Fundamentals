@@ -1,5 +1,3 @@
-'use strict'
-
 let nameList = [];
 nameList = [3, 'string', true, null]; //(4) [3, "string", true, null]
 

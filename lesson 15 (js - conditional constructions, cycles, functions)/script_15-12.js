@@ -1,8 +1,6 @@
-'use strict'
-
 const minMax = (x, y) => {
   if (x === y) {
-      console.log('x and y are equel.')
+      console.log('x and y are equel.');
     } else {
       switch (x > y) {
         case true:

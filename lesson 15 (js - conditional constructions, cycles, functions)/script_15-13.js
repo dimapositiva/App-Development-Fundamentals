@@ -1,5 +1,3 @@
-'use strict'
-
 const sign = x => {
   if (x < 0) {
     console.log(-1);
@@ -8,6 +6,6 @@ const sign = x => {
   } else if (x > 0) {
       console.log(1);
   } else {
-    console.log('Something wrong.')
+    console.log('Something wrong.');
   }
 }

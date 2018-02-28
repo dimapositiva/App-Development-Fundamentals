@@ -1,5 +1,3 @@
-'use strict'
-
 let numbers = [];
 
 const getArraySum = (arr) => {

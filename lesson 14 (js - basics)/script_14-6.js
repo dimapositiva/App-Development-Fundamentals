@@ -1,3 +1,1 @@
-'use strict'
-
-const squareCalc = (a) => a*a;
+const squareCalc = (a) => a * a;
